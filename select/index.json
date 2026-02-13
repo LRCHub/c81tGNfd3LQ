@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "庶幾の唄",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-02-13T13:49:26.576122Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "庶幾の唄",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/01_庶幾の唄_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "庶幾の唄",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_庶幾の唄_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "庶幾の唄 - Shokinouta",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_庶幾の唄_-_Shokinouta_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "庶幾の唄 (Shokinouta)",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/04_庶幾の唄_(Shokinouta)_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "庶幾の唄",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_庶幾の唄_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
